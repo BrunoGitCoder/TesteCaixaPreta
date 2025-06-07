@@ -11,6 +11,7 @@
 - [5. Resultados Obtidos](#5-resultados-obtidos-)
 - [6. Considerações Finais](#6-considerações-finais-)
 - [7. Demonstração em Vídeo](#7--demonstração-em-vídeo)
+- [8. Integrantes do Grupo](#8-integrantes-do-grupo-)
 
 ---
 
@@ -130,3 +131,16 @@ A abordagem automatizada trouxe **agilidade**, **precisão** e **confiabilidade*
 Para uma visualização prática do sistema em funcionamento, assista ao vídeo de demonstração abaixo:
 
 [![Assista à demonstração](https://img.youtube.com/vi/xcJtL7QggTI/0.jpg)](https://www.youtube.com/watch?v=xcJtL7QggTI)
+
+---
+
+## 8. Integrantes do Grupo 👨‍💻
+
+- Nome do Aluno 1 (RA: XXXXXXX)
+- Nome do Aluno 2 (RA: XXXXXXX)
+- Nome do Aluno 3 (RA: XXXXXXX)
+- Nome do Aluno 4 (RA: XXXXXXX)
+
+📘 **Instituição:** Universidade Dom Bosco  
+📚 **Disciplina:** Prática de Qualidade de Software – 2º Bimestre  
+👨‍🏫 **Professor:** Valdinei Saugo
