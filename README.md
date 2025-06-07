@@ -108,6 +108,12 @@ pytest
 | Não Funcional - Segurança | Logout bloqueia acesso posterior      | Redirecionamento para login      | ✔️     |
 | Não Funcional - Usabilidade | Excluir funcionário                 | Confirmação + exclusão visível   | ✔️     |
 
+## 📊 Gráficos dos Testes
+
+| Quantidade por Categoria | Resultado Geral |
+|--------------------------|-----------------|
+| ![Gráfico de Testes](./imagens/testes_por_categoria.png) | ![Resultado dos Testes](./imagens/resultado_geral_testes.png) |
+
 ---
 
 ## 6. Considerações Finais 🏁
