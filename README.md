@@ -10,6 +10,7 @@
 - [4. Execução dos Testes](#4-execução-dos-testes-)
 - [5. Resultados Obtidos](#5-resultados-obtidos-)
 - [6. Considerações Finais](#6-considerações-finais-)
+- [7. Demonstração em Vídeo](#7--demonstração-em-vídeo)
 
 ---
 
@@ -114,3 +115,11 @@ pytest
 Todos os testes foram executados com sucesso, validando o comportamento do sistema tanto em funcionalidades essenciais quanto em aspectos de segurança e usabilidade.
 
 A abordagem automatizada trouxe **agilidade**, **precisão** e **confiabilidade** na verificação do sistema.
+
+---
+
+## 7. 🎥 Demonstração em Vídeo
+
+Para uma visualização prática do sistema em funcionamento, assista ao vídeo de demonstração abaixo:
+
+[![Assista à demonstração](https://img.youtube.com/vi/xcJtL7QggTI/0.jpg)](https://www.youtube.com/watch?v=xcJtL7QggTI)
