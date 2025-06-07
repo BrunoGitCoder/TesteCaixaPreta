@@ -39,7 +39,6 @@ O sistema utilizado foi o **OrangeHRM (versão demo online)**
 - **Pytest**: estrutura de execução dos testes;
 - **Selenium WebDriver**: automação da interação com elementos da interface;
 - **WebDriverWait / expected_conditions**: aguardam elementos de forma sincronizada;
-- **Arquitetura modular**: com `conftest.py` e `funcoes.py` para reuso e organização do código.
 
 ---
 
