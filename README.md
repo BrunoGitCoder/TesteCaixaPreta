@@ -27,7 +27,7 @@ Este relatório apresenta a execução de testes de **caixa preta**, com foco em
 
 O sistema utilizado foi o **OrangeHRM (versão demo online)**
 
-[![OrangeHRM (versão demo online)](https://opensource-demo.orangehrmlive.com/web/images/ohrm_branding.png)](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+[![OrangeHRM (versão demo online)](./imagens/logo_orangehrm.png)](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 **Motivos da escolha:**
 - Sistema web público e gratuito;
