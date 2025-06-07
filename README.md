@@ -30,16 +30,16 @@ O sistema utilizado foi o **OrangeHRM (versão demo online)**
 [![OrangeHRM (versão demo online)](./imagens/logo_orangehrm.png)](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 **Motivos da escolha:**
-- Sistema web público e gratuito;
-- Simula rotinas reais de um RH corporativo;
-- Possui funcionalidades de login, cadastro, consulta e exclusão.
+- Sistema web público e gratuito
+- Simula rotinas reais de um RH corporativo
+- Possui funcionalidades de login, cadastro, consulta e exclusão
 
 ### 🛠️ Ferramentas Utilizadas
 
-- **Python**: linguagem de programação para automação;
-- **Pytest**: estrutura de execução dos testes;
-- **Selenium WebDriver**: automação da interação com elementos da interface;
-- **WebDriverWait / expected_conditions**: aguardam elementos de forma sincronizada;
+- **Python**: linguagem de programação para automação
+- **Pytest**: estrutura de execução dos testes
+- **Selenium WebDriver**: automação da interação com elementos da interface
+- **WebDriverWait / expected_conditions**: aguardam elementos de forma sincronizada
 
 ---
 
