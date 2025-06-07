@@ -30,16 +30,17 @@ O sistema utilizado foi o **OrangeHRM (versão demo online)**
 [![OrangeHRM (versão demo online)](./imagens/logo_orangehrm.png)](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 **Motivos da escolha:**
-- Sistema web público e gratuito
-- Simula rotinas reais de um RH corporativo
-- Possui funcionalidades de login, cadastro, consulta e exclusão
+- Sistema web público e gratuito.
+- Simula rotinas reais de um RH corporativo.
+- Possui funcionalidades de login, cadastro, consulta e exclusão.
 
 ### 🛠️ Ferramentas Utilizadas
 
-- **Python**: linguagem de programação para automação
-- **Pytest**: estrutura de execução dos testes
-- **Selenium WebDriver**: automação da interação com elementos da interface
-- **WebDriverWait / expected_conditions**: aguardam elementos de forma sincronizada
+- **Python**: Utilizado como linguagem base pela sua simplicidade, legibilidade e ampla compatibilidade com bibliotecas de automação e testes.
+- **Pytest**: Escolhido como framework de testes por permitir uma estrutura modular, fácil organização dos testes e suporte a fixtures reutilizáveis.
+- **Selenium WebDriver**: Responsável por automatizar a interação com elementos reais da interface web, simulando o comportamento de um usuário no navegador.
+- **`WebDriverWait` / `expected_conditions`**: Utilizados para tornar a automação mais robusta, aguardando que os elementos estejam disponíveis antes de interagir, evitando falhas por carregamento assíncrono da página.
+
 
 ---
 
@@ -50,15 +51,15 @@ O sistema utilizado foi o **OrangeHRM (versão demo online)**
 #### a) Autenticação  
 📄 Arquivo: `test_login.py`
 
-- `def test_login_valido`: Teste com login válido  
-- `def test_login_invalido`: Teste com login inválido
+- `def test_login_valido`: Teste com login válido.
+- `def test_login_invalido`: Teste com login inválido.
 
 #### b) Entrada de Dados  
 📄 Arquivo: `test_entrada_dados.py`
 
-- `def test_registro_valido`: Cadastro com dados válidos  
-- `def test_registro_invalido_sem_sobrenome`: Cadastro com sobrenome ausente  
-- `def test_registro_invalido_matricula_repetida`: Cadastro com matrícula duplicada
+- `def test_registro_valido`: Cadastro com dados válidos.
+- `def test_registro_invalido_sem_sobrenome`: Cadastro com sobrenome ausente.
+- `def test_registro_invalido_matricula_repetida`: Cadastro com matrícula duplicada.
 
 ---
 
@@ -67,25 +68,25 @@ O sistema utilizado foi o **OrangeHRM (versão demo online)**
 #### a) Segurança  
 📄 Arquivo: `test_seguranca.py`
 
-- `def test_verifica_campo_senha`: Verifica se o campo de senha oculta os caracteres  
-- `def test_redireciona_para_login_se_nao_logado`: Garante redirecionamento para login se não autenticado  
-- `def test_logout`: Testa se o logout bloqueia acesso posterior
+- `def test_verifica_campo_senha`: Verifica se o campo de senha oculta os caracteres.
+- `def test_redireciona_para_login_se_nao_logado`: Garante redirecionamento para login se não autenticado.
+- `def test_logout`: Testa se o logout bloqueia acesso posterior.
 
 #### b) Usabilidade  
 📄 Arquivo: `test_usabilidade.py`
 
 - `def test_usabilidade_deletar_funcionario`:  
-  - Permite buscar e excluir um funcionário  
-  - Verifica mensagens de confirmação visual  
-  - Testa confirmação e cancelamento da exclusão
+  - Verifica busca e exclusão de funcionário;
+  - Verifica mensagens de confirmação visual;
+  - Testa confirmação e cancelamento da exclusão.
 
 ---
 
 ## 4. 🚀 Execução dos Testes
 
 Os testes foram executados com `pytest`, utilizando o Selenium WebDriver para controlar um navegador real.  
-- Fixtures organizadas em `conftest.py`;
-- Funções comuns encapsuladas em `funcoes.py`.
+- Fixtures organizadas em `conftest.py`.
+- Funções comuns organizadas em `funcoes.py`.
 
 Para executar:
 ```bash
