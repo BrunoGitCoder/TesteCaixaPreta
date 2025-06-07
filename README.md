@@ -136,10 +136,10 @@ Para uma visualização prática do sistema em funcionamento, assista ao vídeo 
 
 ## 8. Integrantes do Grupo 👨‍💻
 
-- Nome do Aluno 1 (RA: XXXXXXX)
-- Nome do Aluno 2 (RA: XXXXXXX)
-- Nome do Aluno 3 (RA: XXXXXXX)
-- Nome do Aluno 4 (RA: XXXXXXX)
+- **Bruno**     (RA: 2320628)
+- **Enzo**      (RA: 2320464)
+- **Yago**      (RA: 2320161)
+- **Leonardo**  (RA: 2222046)
 
 📘 **Instituição:** Universidade Dom Bosco  
 📚 **Disciplina:** Prática de Qualidade de Software – 2º Bimestre  
