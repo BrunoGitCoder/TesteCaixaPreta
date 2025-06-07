@@ -3,11 +3,11 @@
 ## 📚 Índice
 
 - [1. Introdução](#1-introdução-)
-- [2. Justificativas](#2-justificativas-)
+- [2. Justificativas](#2--justificativas)
 - [3. Testes Realizados](#3-testes-realizados-)
   - [3.1 Testes Funcionais](#31-testes-funcionais-)
   - [3.2 Testes Não Funcionais](#32-testes-não-funcionais-)
-- [4. Execução dos Testes](#4-execução-dos-testes-)
+- [4. Execução dos Testes](#4--execução-dos-testes)
 - [5. Resultados Obtidos](#5-resultados-obtidos-)
 - [6. Considerações Finais](#6-considerações-finais-)
 - [7. Demonstração em Vídeo](#7--demonstração-em-vídeo)
@@ -20,9 +20,9 @@ Este relatório apresenta a execução de testes de **caixa preta**, com foco em
 
 ---
 
-## 2. Justificativas 📕
+## 2. 📕 Justificativas
 
-### 🌐 Sistema Escolhido
+### Sistema Escolhido 🌐
 
 O sistema utilizado foi o **OrangeHRM (versão demo online)**
 
@@ -81,7 +81,7 @@ O sistema utilizado foi o **OrangeHRM (versão demo online)**
 
 ---
 
-## 4. Execução dos Testes 🚀
+## 4. 🚀 Execução dos Testes
 
 Os testes foram executados com `pytest`, utilizando o Selenium WebDriver para controlar um navegador real.  
 - Fixtures organizadas em `conftest.py`;
