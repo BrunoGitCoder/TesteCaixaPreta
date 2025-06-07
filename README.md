@@ -130,7 +130,7 @@ A abordagem automatizada trouxe **agilidade**, **precisão** e **confiabilidade*
 
 Para uma visualização prática do sistema em funcionamento, assista ao vídeo de demonstração abaixo:
 
-[![Assista à demonstração](https://img.youtube.com/vi/xcJtL7QggTI/0.jpg)](https://www.youtube.com/watch?v=xcJtL7QggTI)
+[![Assista à demonstração](./imagens/capa_video.png)](https://www.youtube.com/watch?v=wOJc0cMVQEU)
 
 ---
 
